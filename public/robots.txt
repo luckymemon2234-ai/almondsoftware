@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+
+# Sitemap (UPDATED DOMAIN)
+Sitemap: https://almondsoftwares.com/sitemap.xml
+
+# Block unnecessary/private paths
+Disallow: /admin
+Disallow: /private
+Disallow: /api
+
+# Allow important pages explicitly (optional but fine)
+Allow: /
+Allow: /about
+Allow: /services
+Allow: /contact
+
+# AI crawlers (optional but modern SEO strategy)
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /

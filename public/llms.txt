@@ -1,0 +1,27 @@
+User-Agent: *
+Allow: /
+
+Site: https://almondsoftwares.in
+Name: Almond Software
+Type: Software Company
+Location: India
+
+Description:
+Almond Software is a premium software development company providing web development, Shopify store development, Salesforce CRM solutions, and AI automation services for startups and businesses worldwide.
+
+Main-Pages:
+https://almondsoftwares.in/
+https://almondsoftwares.in/about
+https://almondsoftwares.in/services
+https://almondsoftwares.in/contact
+
+Services:
+web development
+shopify development
+salesforce crm
+ai automation
+custom software
+startup technology solutions
+
+Sitemap:
+https://almondsoftwares.in/sitemap.xml
